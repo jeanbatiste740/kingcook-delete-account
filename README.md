@@ -1,0 +1,1 @@
+# kingcook-delete-account
